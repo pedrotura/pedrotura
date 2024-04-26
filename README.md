@@ -2,7 +2,7 @@
 
 `Note: this README file is under construction at the moment. Things might change in the near future.`
 
-## Welcome to GitHub profile. Make yourselves at home!
+## Welcome to my wondrous GitHub profile. Make yourselves at home!
 
 My name is Pedro and I'm a 19-year-old student currently in my fifth semester of graduation. Since I'm majoring in Information Systems, my interests are naturally skewed towards technology, problem solving and all different sorts of innovation. I look forward to learning a whole lot with GitHub!
 
