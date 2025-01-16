@@ -4,7 +4,7 @@
 
 ## Welcome to my wondrous GitHub profile. Make yourselves at home!
 
-My name is Pedro and I'm a 19-year-old student currently in my fifth semester of graduation. Since I'm majoring in Information Systems, my interests are naturally skewed towards technology, problem solving and all different sorts of innovation. I look forward to learning a whole lot with GitHub!
+My name is Pedro and I'm a 20-year-old student currently in my sixth semester of graduation. Since I'm majoring in Information Systems, my interests are naturally skewed towards technology, problem solving and all different sorts of innovation. I look forward to learning a whole lot with GitHub!
 
 ## Stuff I'm familiar with
 
@@ -37,7 +37,6 @@ Oh, I don't think I have that many of them at present. Fret not, though, for I'l
 
 <p align="center">
 <a href="https://github.com/pedrotura">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrotura&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrotura&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" alt="languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrotura&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
