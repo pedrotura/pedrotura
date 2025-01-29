@@ -2,7 +2,7 @@
 
 `Note: this README file is under construction at the moment. Things might change in the near future.`
 
-## Welcome to my wondrous GitHub profile. Make yourselves at home!
+## Welcome to my humble GitHub profile. Make yourselves at home!
 
 My name is Pedro and I'm a 20-year-old student currently in my sixth semester of graduation. Since I'm majoring in Information Systems, my interests are naturally skewed towards technology, problem solving and all different sorts of innovation. I look forward to learning a whole lot with GitHub!
 
@@ -24,16 +24,21 @@ My name is Pedro and I'm a 20-year-old student currently in my sixth semester of
 ## General info
 
 - I'm Brazilian, which means I know both English and Portuguese. Feel free to ask me any questions regarding language and its quirks;
-- For the last couple of months, I've been focusing on front-end development, with such tools as HTML, CSS and JS;
+- For the last couple of months, I've been focusing on front-end development, with such tools as Angular, Flutter and React;
 - As stated before, I'm majoring in Information Systems at FIAP and it's been a wild ride so far;
-- I haven't had any job-related experiences yet, but I _have_ been looking for an internship;
+- I have recently taken up a position as a tech support intern at Pueri Domus, which entails providing help to end users, maintaing tech equipment and other such tasks;
 - Math, video games and composing (not songwriting) are some of my favorite hobbies, especially when I can have some spare time dedicated to them;
 
-## My repositories?
+## My repositories
 
-Oh, I don't think I have that many of them at present. Fret not, though, for I'll be sure to add some interesting projects as soon as I finish them up all the way through!
+Despite the large amount of repositories I've accumulated over the last year or so, I'm still working on projects that boast some more relevance altogether. But even so, you can totally check out some of my endeavors down below.
+
+- [AluraBooks](https://github.com/pedrotura/AluraBooks/) — a simple web project with responsive layouts and a mobile-first approach, developed with HTML, CSS and JS;
+- [ProjetoCalculadora](https://github.com/pedrotura/ProjetoCalculadora/) — a functional calculator for performing basic arithmetic operations, developed with HTML, CSS and JS;
 
 ## Some of my stats
+
+Here's a couple of programming languages I've been using quite often ever since I started my journey as a developer. 
 
 <p align="center">
 <a href="https://github.com/pedrotura">
